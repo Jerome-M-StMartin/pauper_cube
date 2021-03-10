@@ -1,0 +1,32 @@
+---------------------------------
+----------- SWAP IN -------------
+---------------------------------
+Howling Golem
+Scaretiller
+Pardic Wanderer (Obsianus Golem)
+Pili-Pala {!} (Armored Transport)
+Scuttlemutt (Opaline Unicorn)
+Bonder's Ornament (Manalith)
+Terrarion (Sky Skiff)
+Cathodion (Renegade Freighter)
+
+---------------------------------
+------------  MAYBE -------------
+---------------------------------
+Sleeper Dart {etbDraw, freeze1 2cmc}
+Terrarion {fixing, cantrip 1cmc}
+Luxa River Shrine
+Crashing Drawbridge
+Spare Supplies {ZR}
+Explorer's Scope
+Astrolabe
+Barbed Sextant
+Mana Geode
+Guardian Idol
+Coiled Tinviper
+Chromatic Sphere
+Springleaf Drum
+Star Compass
+Golden Egg
+Farfinder
+Iron League Steed

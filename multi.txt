@@ -1,0 +1,100 @@
+----------------------------------
+---------- 10 NEW CARDS ----------
+----------------------------------
+IZZET:
+1.) Hypothesizzle {draw, removal 5cmc}
+
+DIMIR:
+1.) Cavern Harpy {combo, flying, bounce, paylife 2cmc}
+
+AZORIUS:
+1.) Azorius Knight-Arbiter {vigilance, unblockable 2/5 5cmc}
+
+SELESNYA:
+1.) Qasali Pridemage {exalted, enchi/artDest 2cmc}
+
+ORZHOV:
+1.) Kingpin's Pet {flying, extort 3cmc}
+
+RAKDOS:
+1.) Lava Zombie {bounce, firebreathing 4/3 3cmc}
+
+GRUUL:
+1.) Deadshot Minotaur {removal, cycling 5cmc}
+
+BOROS:
+1.) Squee's Embrace {ench, recur? 2cmc}
+
+GOLGARI:
+1.) Putrid Leech {buff, paylife 2cmc}
+
+SIMIC:
+1.) Ethereal Ambush {manifest, trick pseudo-draw 5cmc}
+
+----------------------------------
+------------- MAYBE --------------
+----------------------------------
+
+----------------------------------
+----------- SPLIT MANA -----------
+----------------------------------
+IZZET: -----------
+Frostburn Weird
+Noggle Bandit
+------------------
+DIMIR: Whisper Agent
+SIMIC: Snakeform, Scuttlegator, Shielding Plax
+AZORIUS: Curse of Chains, Aethertow
+SELESNYA: Safehold Elite
+ORZHOV: Unmake, Gift of Orzhova, Harvest Gwyllion, 
+RAKDOS: Sootstoke Kindler, Traitor's Roar
+GRUUL: Giantbaiting, Morselhoarder, Burning-Tree Emissary
+BOROS: Fire at Will, 
+GOLGARI: Rendclaw Trow, Desecrator Hag, Odious Trow
+
+-----------------------------------
+---------- HARD MULTICOLOR --------
+-----------------------------------
+IZZET: ----------
+Izzet Chronarch
+Quicksilver Dagger
+
+DIMIR: ----------
+Dinrova Horror {topend, bounce, discard 6cmc} ONBRAND
+Agony Warp
+Dimir Infiltrator
+Soul Manipulation
+
+SIMIC: Coiling Oracle, Temporal Spring, Aeromunculus, Vigean Hydrophon
+
+AZORIUS: Deputy of Aquittals, Ethercaste Knight, Lawmage's Binding, 
+
+SELESNYA: Armadillo Cloak, Call of the Conclave, Captured
+Sunlight, Rhox Bodyguard 
+
+ORZHOV: Tithe Drinker, Blind Hunter
+
+RAKDOS: Blightning, Morgue Burst, Spike Jester, Terminate
+
+GRUUL: Branching Bolt, Frenzied Arynx, 
+
+BOROS: Cerodon Yearling, Skyknight Legionnaire, Viashino
+Firstblade
+
+GOLGARI: Consume Strength, Grim Contest 
+
+--------------------------------
+------- SOFT MULTICOLOR --------
+--------------------------------
+IZZET: ------------
+Jilt
+-------------------
+DIMIR: 
+SIMIC: 
+AZORIUS: Ocular Halo {B/w, draw, vigilance, ench 4cmc}
+SELESNYA: 
+ORZHOV:  
+RAKDOS: 
+GRUUL: Ember Weaver {G/r, reach, firststrike 3cmc}
+BOROS:  
+GOLGARI: 

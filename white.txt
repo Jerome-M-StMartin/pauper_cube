@@ -1,0 +1,58 @@
+------------------------------------
+---------- 10 NEW CARDS ------------
+------------------------------------
+1.) Akrasan Squire {exalted 1cmc}
+2.) Benevolent Blessing {ench, flash, protection 2cmc}
+3.) Soul-Strike Technique {ench, +1/+1, onDeathManifest, vigilance 2cmc}
+4.) Aven Squire {flying, exalted 2cmc}
+5.) Benalish Knight {flash, firststrike 3cmc}
+6.) Desperate Sentry {onDeath, 'drazi token, delirium 3cmc}
+7.) Trusty Retriever {choose: recurEnch, +1/+1self 4cmc}
+8.) Call the Cavalry {tokens, vigilance 4cmc}
+9.) Daybreak Chimera {devotion, flying 5cmc}
+10.) Mammoth Umbra {umbra, vigilance 5cmc}
+
+- 5 Creatures + 2 Token-gen Spells
+
+------------------------------------
+------------- SWAP IN --------------
+------------------------------------
+
+Cartouch of Solidarity (Omen of the Sun) {ench, vigilance, firststrike, token 1cmc}
+Harvestguard Alseids (Sandsteppe Outcast) {constellation 3cmc}
+Transcendent Envoy (Silverbeak Griffin) {enchMatters, flying 2cmc}
+Noble Templar (Loxodon Partisan) {vigilance, plainscycling 6cmc}
+Beloved Princess (Icatian Scout) {lifelink, evasion 1cmc}
+Dawn Charm (Test of Faith) {versatile, fog, regenerate, counter 2cmc}
+Dawnfeather Eagle (Custodi Squire) {etb, flying, 1turn-vigilance&+1/+1 5cmc}
+
+------------------------------------
+-------------- MAYBE ---------------
+------------------------------------
+Answered Prayers {ench, lifegain, temp3/3OnCreatureTB 3cmc}
+Blinding Beam {entwine, tap2, freeze 3/4cmc}
+Coordinated Charge {teambuff, cycling 5cmc}
+Ondu Greathorn {landfall 4cmc}
+Shinen of Stars' Light {versatile, firststrike, channel 2/3cmc}
+Urgent Exorcism {spiritDest, enchDest 2cmc}
+Forsake the Worldly {exile art|ench, cycling 3cmc}
+Pegasus Charger/Voiceless Spirit {flying, firststrike 3cmc}
+Wipe Clean {exileEnch, cycling 2cmc}
+Herald of Dromoka {warriors, vigilance 2cmc}
+Bartered Cow {lifegain, combow/Tortex 4cmc}
+Artful Maneuver {rebound, buff 2cmc}
+Daysquad Marshal {3/3 + 1/1token 4cmc}
+Garrison Cat {onDeath-token 1cmc}
+Steppe Lynx {landfall 1cmc}
+Grasp of the Hieromancer {ench, tap 2cmc}
+Thraben Standard Bearer
+Mine Excavation {ench. recursion}
+Ballynock Cohort {firststrike 3cmc}
+Asha's Favor
+Plover Knights
+Supply-Line Cranes
+Journey to Nowhere
+Rootborn Defenses {trick, populate 3cmc}
+Benalish Lancer
+Light of Hope
+Karametra's Blessing {trick 1cmc}

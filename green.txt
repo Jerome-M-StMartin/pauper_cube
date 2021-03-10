@@ -1,0 +1,73 @@
+--------------------------------------------
+-------------- 10 NEW CARDS ----------------
+--------------------------------------------
+1.) Spider Umbra {umbra, reach 1cmc}
+2.) Blisterpod {'drazi 1cmc}
+3.) Nest Invader {'drazi 2cmc}
+4.) Kazandu Nectarpot {landfall, healthgain 2cmc}
+6.) Tishana's Wayfinder {graveyard, landget 3cmc}
+7.) Beneath the Sands {ramp, cycling 3cmc}
+8.) Nissa's Pilgrimage {ramp 3cmc}
+9.) Cloudcrown Oak {reach, treefolk 4cmc}
+10.) Oakgnarl Warrior {trample, vigilance 7cmc}
+
+- 8 Creatures
+
+--------------------------------------------
+---------------- SWAP IN -------------------
+--------------------------------------------
+Annoyed Altisaur {trample, reach, cascade 7cmc}
+Havenwood Wurm {flash, trample 7cmc}
+Greater Sandwurm {cycling, evasion 7cmc}
+
+Treetop Ambusher (Slaughterhorn) {dash, etb-buff 2cmc}
+Winding Way (Sprout Swarm) {graveyard, landget 2cmc}
+Clear Shot (Savage Punch) {bite>fight, tBuff, 2cmc}
+Juvenile Gloomwidow (Deadly Recluse) {wither, reach 2cmc}
+Trufflesnout (Invasive Species) {healthgain, versatile 3cmc}
+Golgari Brownscale (Crocanura) {dredge, lifegain 3cmc}
+Moldervine Cloak (Forced Adaptation) {ench, dredge 3cmc}
+Migratory Greathorn (Borderland Ranger) {mutate, ramp 3/4cmc}
+[Ivy Lane Denizen] (Nantuko Disciple ) {valueOverTime 4cmc}
+
+--------------------------------------------
+----------------- MAYBE --------------------
+--------------------------------------------
+Ferocious Charge {buff+4/+4, scry2 3cmc}
+Invigorate {buff+4/+4, altCost 3cmc}
+Leafcrown Dryad {bestow, reach, 2/2 2/4cmc}
+Thwart the Enemy {unevenFog 3cmc}
+Metamorphosis {sac, ritual 1cmc}
+Rampaging Hippo {trample, cycling 6cmc}
+Journey of Discovery {entwine: landfetch, ramp 3/6cmc}
+Mosscoat Goriak {vigilance 3cmc}
+Survivors' Bond {recursion 2cmc}
+Bequeathal {draw2OnDeath, ench 1cmc}
+It of the Horrid Swarm {'drazi, emerge, tokens ?cmc}
+Tajuru Pathwarden {vigilance, trample 5cmc}
+Scion Summoner {'drazi 3cmc}
+Ancestral Mask {ench, ench-synergy 3cmc}
+Almighty Brushwagg {trample, pumpable 1cmc}
+Excavation Mole
+Pygmy Troll, [Troll Hide] {regenerate}
+Honey Mammoth {healthgain}
+[Evolution Charm] {versatile}
+Survivor's Bond, Regrowth, Grapple with the Past {graveyard}
+Moment's Peace, Haze Frog, Spore Frog {fog}
+Pridemalkin, New Horizons {counters}
+Matsu-Tribe Sniper, Claws of Wirewood {antifly}
+Oran-Rief Recluse {kicker, antifly}
+Tangle Spider, Swift Spinner {flash, reach}
+Multani's Acolyte
+Cloudcrown Oak
+[Garruk's Companion]
+Lignify
+Ambassador Oak
+Hunger of the Howlpack
+Game-Trail Changeling
+Excavating Anurid
+Nylea's Forerunner
+Saproling Migration, Scatter the Seeds {saprolings}
+Arrogant Wurm {madness}
+
+

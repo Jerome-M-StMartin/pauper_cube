@@ -1,0 +1,64 @@
+------------------------------------
+---------- 10 NEW CARDS ------------
+------------------------------------
+1.) Witching Well {scry, draw 1cmc}
+2.) Traumatic Visions {landcycling, counter 2/5cmc}
+3.) Eel Umbra {umbras 2cmc}
+4.) Miscalculation {counter, cycling 2cmc}
+5.) Spiketail Hatchling {sac, counter, fly 2cmc}
+6.) Infiltrator il-Kor {shadow, suspend 2/5cmc}
+7.) Eldrazi Skyspawner {'drazi 3cmc}
+8.) Calcite Snapper {landfall, shroud 3cmc}
+9.) Crystacean {flash 1/6 4cmc} SLEEPER, blue killspell
+10.) Wretched Gryff {'drazi, draw, 6cmc}
+
+6 Creatures
+
+------------------------------------
+------------- SWAP IN --------------
+------------------------------------
+
+Spined Megalodon (Cold-Water Snapper) {hexproof, scry 7cmc}
+Rain of Revelation (Foresee) {draw3, discard1 4cmc}
+Bubble Snare (Capture Sphere) {ench, permaTap, kicker, 1/3cmc}
+Eyekite (Welkin Tern) {flying, 2cmc}
+[Peel From Reality] (Boomerang)
+[Watcher in the Mist] (Prescient Chimera) {surveil}
+Condescend (Logic Knot) {counterUnlessX, scry 1Xcmc}
+Viscerid Deepwalker (Wingcrafter)
+Ojutai's Summons (Oona's Grace)
+
+------------------------------------
+------------- MAYBE ----------------
+------------------------------------
+Frogify {removal, 2cmc}
+Deliberate {scry, draw 2cmc}
+Wormfang Drake {versatile, value 3cmc}
+Wings of Velis Vel {UNIQUE, 2cmc}
+Thalakos Scout {shadow 3cmc}
+Slither Blade {unblockable 1cmc}
+Foil {free/altcost, counter 4cmc}
+Glimmerbell {flying, comboenabler, 2cmc}
+Ingenious Skaab {prowess, U:+1/-1 3cmc}
+Nimbus Naiad {bestow, flying 2/2 3/5cmc}
+Unstable Mutation {ench 1cmc}
+Repeal {bounce, cantrip x1cmc}
+Write into Being {manifest, scry1 3cmc}
+Omen of the Sea {scry, draw, ench 2cmc}
+Fogwalker {skulk, freeze 2cmc}
+Amphin Pathmage {unblockable 4cmc}
+Brackwater Elemental {unearth 3cmc}
+Starlit Mantle {hexproof, flash, ench 2cmc}
+Drifter il-Dal {shadow, aggro 1cmc}
+Ghostly Flicker {flicker, 3cmc}
+Rhystic Study {ench, draw 3cmc}
+Field Research {draw, kicker 3/6cmc}
+Protective Bubble {ench, unblockable, shroud 4cmc}
+Thunder Drake {flying, grows 4cmc}
+Treasure Cruise {delve, draw 7cmc}
+Soul Barrier {Enchantment}
+Distortion Strike, Taigam's Strike {unblockable}
+Ray of Command {4cmc}
+Peregrine Drake {"free", flying 5cmc}
+Sleep of the Dead {freeze, Escape 1cmc}
+Boreal Elemental {flying, sticky 5cmc}

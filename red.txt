@@ -1,0 +1,84 @@
+--------------------------------------------------------------------------
+----------------------------- 10 New Cards -------------------------------
+--------------------------------------------------------------------------
+NEW CARD THEMES: Looting, Madness, Rituals, Burn
+
+1.) Akoum Hellhound {landfall 1cmc}
+2.) Nyxborn Rollicker {bestow 1/1 1/2cmc} SLEEPER GOOD
+3.) Otherworldly Outburst {token, trick 1cmc}
+4.) Goblin Bushwhacker {kicker, teambuff, haste 1/2cmc}
+5.) Thrill of Possibility {draw/discard 2cmc}
+6.) Molten Birth {tokens, fun 3cmc}
+7.) Goblin War Party {entwine: tokens3, teambuff+haste 4/7cmc}
+8.) Coal Stoker {ritual 4cmc}
+9.) Fireblast {landsac, altcost 6cmc}
+10.) Bone Pit Brute {menace, etbBuffOther+4/+0 6cmc}
+
+--------------------------------------------------------------------------
+---------------------------- SWAP IN -------------------------------------
+--------------------------------------------------------------------------
+Spelleater Wolverine (Suq'Ata lancer) {doublestrike 3cmc}
+Thunderous Wrath (Lightning Blast) {miracle 1/6cmc}
+Reckless Abandon (Artillerize) {sac, burn 1cmc}
+Brazen Wolves (Bogart Brute) {buffOnAttack 3cmc}
+Inner-Flame Acolyte (Goblin Smuggler) (evoke, etb:+2/+0haste 1/3cmc}
+Keldon Halberdier (Forge Devil) {suspend, first strike 1/5cmc}
+
+--------------------------------------------------------------------------
+--------------------------- MAYBE ----------------------------------------
+--------------------------------------------------------------------------
+Champion of the Flame {+2/+2 for ea aura/equip 2cmc}
+Chaos Charm {choose: haste, ping, destWall 1cmc}
+Iroas's Blessing {ench+1/+1 + flame slash 4cmc}
+Prickly Marmoset {firststrike, onCycle+2/0 3cmc}
+Anarchist {recurSorc 5cmc}
+Cloudpiercer {mutate, reach, loot 4/5cmc}
+Rolling Thunder {fireball-like, X1cmc}
+Burst Lightning {kicker, removal, 1/5cmc}
+Lash Out {clash, removal, 2cmc}
+Carbonize {removal, 3cmc}
+Crossway Vampire {antiBlock, 3cmc}
+Stadium Vendors {ritual 4cmc}
+Rapacious Dragon {dragon, ritual* 5cmc}
+Dragon's Egg {dragon, firebreathing, sac-outlet 3cmc}
+Bloodfire Dwarf {1dmgToAll, 1cmc}
+Fiery Mantle {recursion, ench 2cmc}
+Sparkspitter {discard, tokens 3cmc}
+Barbed Lightning
+Spitfire Lagac
+Searing Spear Askari/Ronin Houndmaster
+Shenanigans {dredge}
+Intimidator Initiate
+Embereth Paladin
+Destructive Tempering
+Tuktuk Rubblefort {ZR}
+Teeterpeak Ambusher {ZR}
+Brazen Freebooter
+Crown of Flames {Buffs}
+Arcane Teachings {Buffs}
+- Sigiled Skink
+- Firebrand Archer
+Seething Anger
+Fault Riders
+Zektar Shrine Expedition
+Fiery Temper {Madness}
+Fireblast {landsac}
+Searing Blaze {landfall}
+Burning Prophet
+Shredded Sails
+Borderland Marauder
+Spellgorger Weird
+Staggershock
+Martyr of Ashes
+Pharagax Giant
+Hissing Iguanar
+Death Spark
+Wildfire Elemental
+Pouncing Kavu
+Stensia Innkeeper {landfreeze 4cmc}
+Flamekin Brawler {firebreathing 1cmc}
+
+---------------------- TODO ----------------------------------------------
+Bogardan Rager
+Coalhauler Swine {6cmc}
+Invading Manticore {amass2 4/6 6cmc}

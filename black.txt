@@ -1,0 +1,75 @@
+-----------------------------------------
+------------- 10 NEW CARDS --------------
+-----------------------------------------
+1.) Serrated Scorpion {1cmc}
+2.) Tortured Existence {recursion, combo 1cmc}
+3.) Sinuous Vermin {monstrosity, DriverOfTheDeadTarget 2cmc} ONBRAND
+4.) Ravenous Rats {etb, discard 2cmc}
+5.) Brain Gorgers {etb, madness, sac 2/4cmc}
+6.) Fleshbag Maurauder {etb, sac, 3cmc}
+7.) Dead Reckoning {removal, recursion 3cmc}
+8.) Reckless Imp {flying, dash 2/3cmc}
+9.) Moan of the Unhallowed {tokens, flashback 4/7cmc}
+10.) Weed-Pruner Poplar {control, -1/-1onUpkeep 5cmc}
+
+- 7 Creatures
+
+-----------------------------------------
+--------------- SWAP IN -----------------
+-----------------------------------------
+Sanitarium Skeleton (Tormented Soul) {combo, reanimation 1cmc}
+Midnight Charm (Dark Ritual) {versatile, drain1, firststrike, tap 1cmc}
+Unburden (Stab Wound) {discard, cycling 3cmc}
+Hymn to Tourach (Gastly Demise) {discard 2cmc}
+Dauthi Slayer (Rakdos Drake) {shadow 2cmc}
+Highborn Ghoul (Severed Legion) {intimidate 2cmc}
+Sultai Emissary (Lazotep Reaver) {manifest, sacInlet/onDeath 2cmc}
+Gorging Vulture (Carrion Crow) {flying, selfmill, lifegain 3cmc}
+Reaping the Graves (Hand of Death) {storm, recursion 3cmc}
+Ashes to Ashes (Dead Ringers) {removal2 3cmc}
+Wander in Death (Morbid Plunder) {recursion, cycling 3cmc}
+Dimir House Guard (Accursed Spirit) {fear, transmute, sac, combo 4cmc}
+Rank Officer (Faceless Butcher) {etb, token, discard, drain 4cmc} }
+Undercity Scavenger (Azra Smokeshaper) {grow, onDeath 4cmc}
+Driver of the Dead (Gravedigger) {autoRecursion 4cmc}
+Twisted Abomination (Prowling Pangolin) {regenerate, swampcycling 6cmc}
+
+-----------------------------------------
+---------------- MAYBE ------------------
+-----------------------------------------
+Expunge {terror + cyling + 1mana (3cmc)}
+Dregscape Zombie {unearth 2cmc}
+Distress {choose&discard1 2cmc}
+Exume {recursion, combo 2cmc}
+Innocent Blood {sac, 1cmc}
+Viscera Dragger {unearth, cycling 2/4cmc}
+Lim-Dûl's High Guard  {firststrike, regenerate 3cmc}
+Bala Ged Scorpion {removal, creature 4cmc}
+Crow of Dark Tidings {self-mill, flying 3cmc}
+Black Cat {discard@rand, sacInlet 2cmc}
+Wasteland Scorpion {cycling, deathtouch 3cmc}
+Urborg Uprising {draw, recursion 5cmc}
+Village Rites {sac, draw2 1cmc}
+Dreamspoiler Witches {flying, plink 4mc}
+Mana Skimmer {flying, tap_land_onDMG 4cmc} UNIQUE
+Final-Sting Faerie {flying, conditional_removal 4cmc}
+Perilous Shadow {shade(1B for 2+2) 4cmc}
+Crypt Ripper {haste, shade 4cmc}
+Ragged Veins {trick, flash, ench 2cmc}
+Dirge of Dread {fear, cycling 2/3cmc}
+Silent Skimmer  {'drazi 4cmc}
+Dominator Drone {'drazi, antiGotG 3cmc}
+Balustrade Spy {mill 4cmc}
+Bake into a Pie {removal, lifegain 4cmc}
+Aspect of Lamprey {discard, lifelink, ench 4cmc}
+Endless Scream {ench, +x/+0 X1cmc}
+Necromancer's Magemark {Buffs}
+Dregscape Zombie
+Deadly Grub
+Tithebearer Giant
+Blind Creeper
+Deepwood Ghoul
+Warren Pilferers
+Predatory Nightstalker
+Deathbloom Thallid
+Cursed Minotaur {zombie}
